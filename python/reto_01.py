@@ -6,7 +6,7 @@
     con el alfabeto y los números en "leet".
     (Usa la primera opción de cada transformación. Por ejemplo "4" para la "a")
 '''
-print("Hola, vas a poder traducir textos con este programa a 'lenguage hacker'. Introduce a continuación el texto que quieras para ver el restulado:")
+print("Hola, vas a poder traducir textos con este programa a 'lenguaje hacker'. Introduce a continuación el texto que quieras para ver el restulado:")
 
 text = input("Escriba un mensaje:")
 
